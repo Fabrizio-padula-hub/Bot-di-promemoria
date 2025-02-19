@@ -1,0 +1,19 @@
+# File di configurazione locali
+config.py
+
+# File di log
+*.log
+
+# Cache dei file Python
+__pycache__/
+
+# File temporanei creati da editor di testo (es. VSCode)
+.vscode/
+
+# File di compilazione
+*.pyc
+*.pyo
+
+# File di backup
+*.bak
+*.swp
